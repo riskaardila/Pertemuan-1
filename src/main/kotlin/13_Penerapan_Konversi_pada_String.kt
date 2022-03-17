@@ -22,4 +22,16 @@ fun main() {
     """
     println(text)
     println("=================================")
+    println()
+
+    println("=================================")
+    println("(4) Percobaan Keempat String")
+    var texts = """
+        |Tell me and I forget.
+        |Teach me and I remember.
+        |Involve me and I learn.
+        |(Riska Ardila)
+    """.trimMargin()
+    println(texts)
+    println("=================================")
 }
