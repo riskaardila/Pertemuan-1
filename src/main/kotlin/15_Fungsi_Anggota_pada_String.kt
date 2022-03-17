@@ -15,5 +15,5 @@ fun main() {
     println("Saya tidak akan membuang semua internet ini.".substring(2, 7))
 
     // compareTo()
-    println("alpha".compareTo("bravo"))
+    println("alpha".compareTo("bravo."))
     }
